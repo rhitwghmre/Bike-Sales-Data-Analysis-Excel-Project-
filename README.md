@@ -147,7 +147,8 @@ These insights can help businesses target marketing campaigns, optimize pricing 
 The Excel dashboard provides an interactive view of bike sales performance using slicers for region, education, marital status, and number of children.
 </p>
 
-<img width="1167" height="843" alt="Screenshot 2026-01-03 205552" src="https://github.com/user-attachments/assets/47b04676-85ad-4fba-84e0-e9cd6d66a0e1" />
+<img width="1016" height="822" alt="image" src="https://github.com/user-attachments/assets/86034018-dfd2-4d62-b7db-a8b16e9e5a27" />
+
 
 
 <hr>
