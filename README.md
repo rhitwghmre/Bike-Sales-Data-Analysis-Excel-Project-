@@ -154,8 +154,8 @@ The Excel dashboard provides an interactive view of bike sales performance using
 
 ## 📂 Files in Repository
 
-- `Bike_Sales_Analysis.xlsx` – Complete Excel workbook containing cleaned data, pivot tables, and dashboards  
-- `Screenshots/` – Visual snapshots of dashboards and key analysis outputs  
+- `Bike Sales Excel Project.xlsx` – Complete Excel workbook containing cleaned data, pivot tables, and dashboards  
+- `Excel Dashboard.png` – Visual snapshots of dashboards and key analysis outputs  
 - `README.md` – Project documentation and analysis overview
 
 <hr>
